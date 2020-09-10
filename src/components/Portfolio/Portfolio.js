@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, CardDeck } from 'react-bootstrap'
-import '../components/portfolio.css'
+import '../Portfolio/portfolio.css'
 const Portfolio = () => (
     <div>
         <h1 >My Portfolio Page</h1>
